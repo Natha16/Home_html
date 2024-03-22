@@ -1,0 +1,25 @@
+<DOCTYPE html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <script type="module" src="code.js"></script>
+<h1>HTML is Great!</h1>
+    </head>
+<body>
+<h1>1. Introdução</h1>
+<h2>1.1 Antes da Web</h2>
+<h2>1.2 A Web</h2>
+<h3>1.2.1 Web 1.0</h3>
+<h3>1.2.2 Web 2.0</h3>
+<h4>1.2.2.1 Web Semântica</h4>
+<h1>2. Desenvolvimento</h1>
+<h1>2.2 O Estado Atual</h1>
+<h1>3. O Futuro</h1>
+<ol type="I">
+    <li>Um</li>
+    <li>Dois</li>
+    <li>Três</li>
+</ol>
+<ol id="listaNomes"></ol>
+<input type="text" id="inputNome">
+<button id="buttonAdicionar">Adicionar</button>
+</body>
